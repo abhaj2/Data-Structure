@@ -8,7 +8,7 @@ printf("enter the limit of array a\n ");
 scanf("%d",&m);
 printf("Enter the limit of array b");
 scanf("%d",&n);
-printf("Enter the soted elements in array a1\n");
+printf("Enter the sorted elements in array a1\n");
 for(i=0;i<m;i++)
 {
 scanf("%d",&a1[i]);
